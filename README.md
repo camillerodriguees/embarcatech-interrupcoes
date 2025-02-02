@@ -41,6 +41,6 @@ O código é composto pelos seguintes módulos:
 ### 2️⃣ Clonando o Repositório
 
 ```sh
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/camillerodriguees/embarcatech-interrupcoes.git)
+git clone https://github.com/camillerodriguees/embarcatech-interrupcoes.git
 
 
